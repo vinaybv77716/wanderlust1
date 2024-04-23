@@ -51,7 +51,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
    - Open MongoDB Compass and connect MongoDB locally at `mongodb://localhost:27017`.
 
 5. **Add your public Ip**
-   - on both (/wanderlust/backend/.env.sample file) and  (/wanderlust/frountend/.env.sample file)
+   -  (/wanderlust/frountend/.env.sample file)
 
 5. run this comand to insurt the data
 
